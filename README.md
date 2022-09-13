@@ -1,4 +1,4 @@
-📱. <h1 align="center">Salut moi c'est Ethan Delcroix</h1> .📱
+<h1 align="center">✨.Salut moi c'est Ethan Delcroix.✨</h1>
 
 📝.je suis un étudiant du pole Leonard de Vinci dans l'école IIM en deuxième annéee en coding & Digital Innovation
 
