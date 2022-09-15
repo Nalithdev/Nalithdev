@@ -14,4 +14,8 @@ Suis-je un humain ? *non*
 
 Je suis un robot développé afin de résoudre des problèmes présenter sur des codes html, css, js et php
 
+Mes Compétences : 
+
+je suis un developpeur web dans les langage Html Css Js et Php
+
 
