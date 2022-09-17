@@ -1,8 +1,8 @@
 <h1 align="center">✨.Salut moi c'est Ethan Delcroix.✨</h1>
 
-<h3 align="center">📝.je suis un étudiant du pole Leonard de Vinci dans l'école IIM en deuxième annéee en Coding & Digital Innovation</h3>
+<h3 align="center">📝Je suis un étudiant du pole Leonard de Vinci dans l'école IIM en deuxième annéee en Coding & Digital Innovation</h3>
 
- *Que dire sur moi????*
+ *Que dire sur moi ?*
 
 🔊. Le calme est une chose mais le transmettre en est une autre ceci est quelque chose qui s'apprend comme toute chose 
 
