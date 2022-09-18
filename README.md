@@ -2,15 +2,17 @@
 
 <h3 align="center">📝I'm a student in second year in CS & Digital Innovation at IIM in Leonard de Vinci group</h3>
 
- *What say about me ?*
+ *What should I say about me ?*
 
-I am a french student 19 year
+I am a 19-years-old french student
 
 I gonna learn Symphony and Vue JS
 
 If you need help in HTLM or CSS you cna ask me 
 
 💻 Programming Languages: 
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
 
 HTML CSS Python Javascript PHP
 
