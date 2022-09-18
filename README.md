@@ -1,6 +1,6 @@
-<h1 align="center">✨ Hi, I'm Ethan Delcroix.✨</h1>
+# ✨ Hi, I'm Ethan Delcroix.✨
 
-<h3 align="center">📝I'm a student in second year in CS & Digital Innovation at IIM in Leonard de Vinci group</h3>
+### 📝I'm a student in second year in CS & Digital Innovation at IIM in Leonard de Vinci group
 
  *What should I say about me ?*
 
@@ -8,15 +8,15 @@ I am a 19-years-old french student
 
 I gonna learn Symphony and Vue JS
 
-If you need help in HTLM or CSS you cna ask me 
-
-💻 Programming Languages: 
+## 💻 Programming Languages 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
+
+
 
 My Social Network :
 
