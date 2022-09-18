@@ -20,5 +20,6 @@ I gonna learn Symphony and Vue JS
 My Social Network :
 
 ![Discord](https://img.shields.io/badge/%3CNalïth%233367%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/Ethan-Delcroix-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://linkedin.com/in/nicolasdegarrigues" rel="nofollow">
+![LinkedIn](https://img.shields.io/badge/Ethan-Delcroix-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
