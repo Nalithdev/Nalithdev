@@ -1,21 +1,24 @@
-<h1 align="center">✨.Salut moi c'est Ethan Delcroix.✨</h1>
+<h1 align="center">✨ Hi, I'm Ethan Delcroix.✨</h1>
 
-<h3 align="center">📝Je suis un étudiant du pole Leonard de Vinci dans l'école IIM en deuxième annéee en Coding & Digital Innovation</h3>
+<h3 align="center">📝I'm a student in second year in CS & Digital Innovation at IIM in Leonard de Vinci group</h3>
 
- *Que dire sur moi ?*
+ *What say about me ?*
 
-🔊. Le calme est une chose mais le transmettre en est une autre ceci est quelque chose qui s'apprend comme toute chose 
+I am a french student 19 year
 
-📱. Imaginer du code c'est imaginé une nouvelle vision que les gens autours de nous perçoivent par le biais du Digital
+I gonna learn Symphony and Vue JS
 
-*Être ou ne pas être tel est la question*, Tout le monde ce pose cet question et la réponse c'est sois même si on décide d'être une chose on l'assume et on prouve qu'être ainsi à une utilité pour le monde.
+If you need help in HTLM or CSS you cna ask me 
 
-Suis-je un humain ? *non*
+💻 Programming Languages: 
 
-Je suis un robot développé afin de résoudre des problèmes présenter sur des codes html, css, js et php
+HTML CSS Python Javascript PHP
 
-Mes Compétences : 
+My Social Network :
 
-je suis un developpeur web dans les langage Html Css Js et Php
 
+![image](https://user-images.githubusercontent.com/113120188/190899729-414408a4-d667-41e4-b491-aa654094bde0.png)
+<a href="https://www.linkedin.com/in/ethan-delcroix-087305233/" rel="no follow">
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasdegarrigues" height="30" width="40" style="max-width: 100%;"></a>
 
