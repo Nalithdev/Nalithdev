@@ -4,7 +4,7 @@
 
  *What should I say about me ?*
 
-I am a 19-years-old french student
+I am a 19-year-old french student
 
 I gonna learn Symphony and Vue JS
 
