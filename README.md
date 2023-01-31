@@ -1,12 +1,12 @@
 # ✨ Hi, I'm Ethan Delcroix.✨
 
-### 📝I'm a student in second year in CS & Digital Innovation at IIM in Leonard de Vinci group
+### 📝I'm a student in second year in Coding & Digital Innovation at IIM in Leonard de Vinci group
 
  *What should I say about me ?*
 
 I am a 19-year-old french student
 
-I gonna learn Symphony and Vue JS
+I gonna learn Symphony 
 
 ## 💻 Programming Languages 
 
