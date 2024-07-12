@@ -19,6 +19,6 @@ I am a 21-year-old french student
 My Social Network :
 
 ![Discord](https://img.shields.io/badge/%3Cnalith%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-<a href="https://www.linkedin.com/in/ethan-delcroix-087305233/" rel="nofollow">
+<a href="https://www.linkedin.com/in/ethan-delcroix" rel="nofollow">
 ![LinkedIn](https://img.shields.io/badge/Ethan-Delcroix-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
