@@ -4,9 +4,7 @@
 
  *What should I say about me ?*
 
-I am a 19-year-old french student
-
-I gonna learn Symphony 
+I am a 21-year-old french student
 
 ## 💻 Programming Languages 
 
